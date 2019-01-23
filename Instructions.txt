@@ -1,0 +1,6 @@
+w,a,s,d movement
+mouse controls camera
+collides with obstacles
+esc to quit
+
+Launch release from triangle.exe in the release folder
